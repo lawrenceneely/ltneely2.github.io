@@ -6,5 +6,5 @@ I am a list:
 3. last in list
 
 I am going to add a figure:
-
+g
 !
